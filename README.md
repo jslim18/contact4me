@@ -7,17 +7,28 @@ Sample
 ------
 
 Scenario 1:
+
 Input
+
 $contact -O=School
 
+
 Output
+
 Found -O in Entry#21
+
 Found -O in Entry#22
+
 Found -O in Entry#30
 
+
 Scenario 2:
+
 Input
+
 $contact -F -FN=陆小姐
 
+
 Output
+
 Error
