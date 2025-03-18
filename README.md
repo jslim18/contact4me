@@ -8,7 +8,7 @@ Sample
 
 Scenario 1:
 Input
-$contact -O=Apple
+$contact -O=School
 
 Output
 Found -O in Entry#21
