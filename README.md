@@ -11,16 +11,16 @@ Scenario 1:
 
 Input
 
-$contact -O=School
+$contact -FN=School
 
 
 Output
 
-Found -O in Entry#21
+Found -FN in Entry#21
 
-Found -O in Entry#22
+Found -FN in Entry#22
 
-Found -O in Entry#30
+Found -FN in Entry#30
 
 
 Scenario 2:
@@ -28,7 +28,7 @@ Scenario 2:
 
 Input
 
-$contact -F -FN=陆小姐
+$contact -FN=陆小姐
 
 
 Output
